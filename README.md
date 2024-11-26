@@ -14,8 +14,8 @@ This is a simple Netflix clone website built using HTML and CSS. It replicates t
 - **CSS3**: Used for styling and creating layouts.
 - **Flexbox**: For creating responsive grid layouts.
 
-## Live Demo
 
-Experience it yourself  [Link]([URL](https://kavyareddyflix.ccbp.tech/))
+## Check Out My Netflix Clone! 🎬
 
+You can view the project live here: [kavyareddyflix.ccbp.tech](https://kavyareddyflix.ccbp.tech)
 
