@@ -16,5 +16,5 @@ This is a simple Netflix clone website built using HTML and CSS. It replicates t
 
 ## Live Demo
 
-You can view the live demo of this Netflix clone [here](#).
+You can view the live demo of this Netflix clone [[here](https://kavyareddyflix.ccbp.tech/)](#).
 
